@@ -48,7 +48,7 @@ int main(){
   int n2 = 3200; 
   int P;
 
-  P = (n1*m2)/6;
+  P = (n1*m2)/2;
   
   //verificar se pode ser multiplicada
   if (!verificaTamanhos(n1, m2)) {
@@ -69,7 +69,7 @@ int main(){
   lerMatriz(mat2, matriz2);
 
   //passar matrizes e o valor de P para os calculos
-  multiplicarMatrizesSequencial(matriz1, matriz2);
+  //multiplicarMatrizesSequencial(matriz1, matriz2);
   multiplicarMatrizesProcessos(matriz1, matriz2, P);
   multiplicarMatrizesThread(matriz1, matriz2, P);
   return 0;

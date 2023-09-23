@@ -1,0 +1,2 @@
+Tempo total de todas as threads em segundos: 4963.09
+Tempo total de todas as threads em milissegundos: 4.96309e+06
