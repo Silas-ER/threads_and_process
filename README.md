@@ -6,19 +6,20 @@
   A etapa 1 (base do projeto) é composta por: 
   <ul>
     <li>Criação de um <a>programa auxiliar</a></li>
-    <li>Programa para calculo de forma <a href="https://github.com/Silas-ER/Processos_e_Threads/blob/main/sequencial.cpp">sequencial</a></li>
-    <li>Programa para calculo de forma paralela com <a href="https://github.com/Silas-ER/Processos_e_Threads/blob/main/threads.cpp">threads</a></li>
-    <li>Programa para calculo de forma parelela com <a href="https://github.com/Silas-ER/Processos_e_Threads/blob/main/processos.cpp">processos</a></li>
+    <li>Programa auxiliar para <a href="https://github.com/Silas-ER/threads_and_process/blob/main/progAuxiliar.cpp">criação de matrizes</a>.</li>
+    <li>Programa para calculo de forma <a href="https://github.com/Silas-ER/threads_and_process/blob/main/sequencial.cpp">sequencial</a></li>
+    <li>Programa para calculo de forma paralela com <a href="https://github.com/Silas-ER/threads_and_process/blob/main/threads.cpp">threads</a></li>
+    <li>Programa para calculo de forma parelela com <a href="https://github.com/Silas-ER/threads_and_process/blob/main/processos.cpp">processos</a></li>
   </ul>
 </p>
 <p>
   A etapa 2 consiste em: 
   <ul>
     <li>
-      E1 - Execução dos programas com matrizes de diversos tamanhos coletando dados e tendo como parametro de finalização que o tempo do sequencial chegue a 2min, o que pode ser visto <a href="https://github.com/Silas-ER/Processos_e_Threads/tree/main/assets/exercicios/E1">aqui</a>.
+      E1 - Execução dos programas com matrizes de diversos tamanhos coletando dados e tendo como parametro de finalização que o tempo do sequencial chegue a 2min, o que pode ser visto <a href="https://github.com/Silas-ER/threads_and_process/tree/main/assets/exercicios/E1">aqui</a>.
     </li>
     <li>
-      E2 - Usando as matrizes obtidas topo do E1, testar valores diferentes para P decrementando os valores. Que pode ser visto <a href="https://github.com/Silas-ER/Processos_e_Threads/tree/main/assets/exercicios/E2">aqui</a>.
+      E2 - Usando as matrizes obtidas topo do E1, testar valores diferentes para P decrementando os valores. Que pode ser visto <a href="https://github.com/Silas-ER/threads_and_process/tree/main/assets/exercicios/E2">aqui</a>.
     </li>
   </ul>
 </p>
